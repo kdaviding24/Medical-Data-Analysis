@@ -1,0 +1,1 @@
+this repo contains simple functions for anaylizing a csv file with old medical records. Specifally how different aspects affect medical costs. Wanted to add more functions but crunched for time.
